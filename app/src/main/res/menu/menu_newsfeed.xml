@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.NewsfeedActivity">
+    <item
+        android:id="@+id/delete_all"
+        android:orderInCategory="1"
+        android:title="@string/delete_tweets"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/get_tweets"
+        android:orderInCategory="2"
+        android:title="@string/get_tweets"
+        android:icon="@android:drawable/stat_sys_download"
+        app:showAsAction="ifRoom" />
+</menu>

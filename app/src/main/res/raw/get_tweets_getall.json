@@ -1,0 +1,115 @@
+[
+    {
+        "user": "John Doe",
+        "tweet_id": "001",
+        "body": "Example tweet 1",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2015",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "002",
+        "body": "Example tweet 2",
+        "timestamp": "Mon March 14 21:20:00 -0600 2016",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "003",
+        "body": "Example tweet 3",
+        "timestamp": "Mon March 14 20:20:00 -0600 2016",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "004",
+        "body": "Example tweet 4",
+        "timestamp": "Mon March 14 19:20:00 -0600 2016",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "005",
+        "body": "Example tweet 5",
+        "timestamp": "Sun March 13 21:20:00 -0600 2016",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "006",
+        "body": "Example tweet 6",
+        "timestamp": "Mon March 14 21:36:00 -0600 2016",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "007",
+        "body": "Example tweet 7",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "008",
+        "body": "Example tweet 8",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "009",
+        "body": "Example tweet 9",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "010",
+        "body": "Example tweet 10",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "011",
+        "body": "Example tweet 11",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "012",
+        "body": "Example tweet 12",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "013",
+        "body": "Example tweet 13",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "014",
+        "body": "Example tweet 14",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "John Doe",
+        "tweet_id": "015",
+        "body": "Example tweet 15",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    },
+    {
+        "user": "Mike Jones",
+        "tweet_id": "016",
+        "body": "Example tweet 16",
+        "timestamp": "Wed Aug 29 17:12:58 -0600 2012",
+        "user_image_url": "http://4.bp.blogspot.com/-4JZB30XBRbg/UafYZcZU_XI/AAAAAAAACMM/ccyk1Z6IYx0/s1600/Twitter-Profile-Image73x73pixels.png"
+    }
+  ]
+

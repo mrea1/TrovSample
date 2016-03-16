@@ -1,0 +1,7 @@
+{
+  "result": "error",
+  "error": {
+    "code": 404,
+    "message": "Invalid address"
+  }
+}
