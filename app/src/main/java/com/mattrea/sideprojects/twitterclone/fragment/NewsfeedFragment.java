@@ -17,7 +17,7 @@ import com.mattrea.sideprojects.twitterclone.model.Tweet;
 import com.mattrea.sideprojects.twitterclone.model.TwitterResponse;
 import com.mattrea.sideprojects.twitterclone.model.User;
 import com.mattrea.sideprojects.twitterclone.network.ApiManager;
-import com.mattrea.sideprojects.twitterclone.network.RestServiceTestHelper;
+import com.mattrea.sideprojects.twitterclone.network.Utils;
 import com.orm.SugarRecord;
 
 import java.util.ArrayList;
@@ -149,7 +149,7 @@ public class NewsfeedFragment extends Fragment {
     public void postTweet(){
         final Tweet tweet = new Tweet();
         tweet.body = "Example of a new tweet";
-        tweet.timestamp = RestServiceTestHelper.getCurrentDateTimeFormatted();
+        tweet.timestamp = Utils.getCurrentDateTimeFormatted();
         tweet.user = user.getUsername();
 
         if (Tweet.last(Tweet.class)!=null)

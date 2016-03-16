@@ -6,7 +6,7 @@ import com.mattrea.sideprojects.twitterclone.model.Tweet;
 import com.mattrea.sideprojects.twitterclone.model.TwitterResponse;
 import com.mattrea.sideprojects.twitterclone.model.User;
 import com.mattrea.sideprojects.twitterclone.network.ApiManager;
-import com.mattrea.sideprojects.twitterclone.network.RestServiceTestHelper;
+import com.mattrea.sideprojects.twitterclone.network.Utils;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -99,7 +99,7 @@ public class NetworkTest {
 
         final Tweet tweet = new Tweet();
         tweet.body = "Example of a new tweet";
-        tweet.timestamp = RestServiceTestHelper.getCurrentDateTimeFormatted();
+        tweet.timestamp = Utils.getCurrentDateTimeFormatted();
         tweet.user = user.getUsername();
         tweet.tweet_id = "001";
         tweet.user_image_url = "http://davidpapp.com/wp-content/uploads/2013/10/twitter.png";
@@ -127,7 +127,7 @@ public class NetworkTest {
 
         final Tweet tweet = new Tweet();
         tweet.body = "Example of a new tweet";
-        tweet.timestamp = RestServiceTestHelper.getCurrentDateTimeFormatted();
+        tweet.timestamp = Utils.getCurrentDateTimeFormatted();
         tweet.user = user.getUsername();
         tweet.tweet_id = "001";
         tweet.user_image_url = "http://davidpapp.com/wp-content/uploads/2013/10/twitter.png";
