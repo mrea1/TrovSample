@@ -2,7 +2,7 @@
 
 ##Summary
 
-TwitterClone is a proof of concept app that displays a list of sample tweets, much like the real Twitter app.
+TwitterClone is a proof of concept app that displays a list of sample tweets, much like the real Twitter app. The purpose of this app is to get some more experience with testing retrofit interfaces. I had some ideas and wanted to try them out :)
 
 ##App Architecture
 
@@ -34,4 +34,4 @@ A series of unit tests have been developed into the app. The unit tests use the 
 
 While this set of tests cover most functionality in the app, improvements could be made. Further unit tests could be written to test all possibilities on network calls. Additionally, a mocking library such as Mockito could be used to write more complex tests.
 
-Unfortunately, I ran into some issues getting Robolectric to play nice with Android M. This is a known issue within Robolectric. I implemented some workarounds, but I did not have time to figure it all out. I could solve this by compiling with SDK 21 and remove all SDK 22/23 code. I also could use Espresso, Google’s testing library. I have a bit of experience with it, and it looks to be pretty powerful and well supported within Android.
+I also could use Espresso, Google’s testing library. I have a bit of experience with it, and it looks to be pretty powerful and well supported within Android.
